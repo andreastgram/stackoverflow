@@ -6,6 +6,7 @@
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
+6. Changes
 
 ## Installation <a name="installation"></a>
 
